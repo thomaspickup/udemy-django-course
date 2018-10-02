@@ -8,6 +8,7 @@ In each section there is a readme file which details the work that was done on a
 
 I will be updating this repository and the information as I progress through this course. This is a big course totalling to over 24 hours worth of lectures alone. For more information on using the course or to get in touch with me, please follow the contact section below.
 
+If you like the work I'm doing this repository please Watch it and Star it, follow me on GitHub as well!
 ## Sections
 1. HTML - Level 1 - Basics
 2. HTML - Level 2 - Advanced
@@ -35,4 +36,5 @@ I will be updating this repository and the information as I progress through thi
 
 ## Contact
 The best way to contact me is through email, you can find this on my GitHub profile.
-You can also contact me through my LinkedIn https://www.linkedin.com/in/thomaspickup/. 
+
+You can also contact me through my LinkedIn https://www.linkedin.com/in/thomaspickup/.
